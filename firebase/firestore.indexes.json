@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Ingreso",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "emailUsuario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fecha",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

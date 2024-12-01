@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739446656647",
+    "project_id": "financer-5a915",
+    "storage_bucket": "financer-5a915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739446656647:android:3f196b9f01636a426c7222",
+        "android_client_info": {
+          "package_name": "com.flutterflow.financer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkT0C_fVFC7JMDfM2bB2OmL0wtZw1ri6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
